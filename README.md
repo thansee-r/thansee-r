@@ -37,7 +37,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/adobe-lightroom.svg" alt="Lightroom" width="40" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-%20-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" height="40" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" height="28" />
 </p>
 
 <h3 align="center">Dev Tools</h3>
