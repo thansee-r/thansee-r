@@ -61,7 +61,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<div align="center">
-  <img src="none" alt="Bottom Line" width="100%" />
-</div>
 
