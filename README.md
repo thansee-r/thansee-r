@@ -36,15 +36,15 @@
 <h3 align="center">Design & Creative Tools</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/adobelightroom/31A8FF" alt="Lightroom" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/adobe-lightroom.svg" alt="Lightroom" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/canva.svg" alt="Canva" width="40" />
 </p>
 
 <h3 align="center">Dev Tools</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" />
 </p>
 
 ## 🔗 Connect with Me
