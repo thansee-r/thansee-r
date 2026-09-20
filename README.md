@@ -35,9 +35,9 @@
 
 <h3 align="center">Design & Creative Tools</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Lightroom" width="40" />&nbsp;&nbsp;
-  <img src="https://static.canva.com/web/images/8439b51bb7a19f6e65ce1064bc37c197.svg" alt="Canva" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/figma.svg" alt="Figma" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobelightroom.svg" alt="Lightroom" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg" alt="Canva" width="40" />
 </p>
 
 <h3 align="center">Dev Tools</h3>
