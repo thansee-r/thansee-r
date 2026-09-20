@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Thanseer%20Ahmed&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CSE%20Student%20%7C%20Developer%20%7C%20Designer&descSize=18&descAlignY=55&textBg=false"/>
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
 <a href="https://github.com/thansee-r">
   <img src="https://komarev.com/ghpvc/?username=thansee-r&label=Profile%20views&color=00FFFF&style=flat-square" alt="thansee-r's profile views" />
 </a>
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 </div>
 
