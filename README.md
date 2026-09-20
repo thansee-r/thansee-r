@@ -38,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/adobe-lightroom.svg" alt="Lightroom" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" />&nbsp;&nbsp;
-  <img src="thansee-r/assets/lens-studio.png" alt="Lens Studio" width="40" />
+  <img src="assets/lens-studio.png" alt="Lens Studio" width="40" />
 </p>
 
 <h3 align="center">Dev Tools</h3>
