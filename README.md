@@ -73,7 +73,7 @@
 <br>
 
 <a href="https://github.com/thansee-r">
-  <img src="https://komarev.com/ghpvc/?username=thansee-r&label=Profile%20views&color=00B2B2&style=flat-square" alt="thansee-r's profile views" />
+  <img src="https://komarev.com/ghpvc/?username=thansee-r&label=Profile%20views&color=009999&style=flat-square" alt="thansee-r's profile views" />
 </a>
 
 </div>
