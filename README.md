@@ -53,8 +53,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thanseerahmed/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/></a>&nbsp;&nbsp;
   <a href="mailto:im.thanseerahmed@gmail.com">
     <img src="https://www.gstatic.com/images/branding/productlogos/gmail_2026/v2/web/192px.svg" alt="Gmail" width="40" />
   </a>
