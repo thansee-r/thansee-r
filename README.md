@@ -2,11 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Thanseer%20Ahmed&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CSE%20Student%20%7C%20Developer%20%7C%20Designer&descSize=18&descAlignY=55&textBg=false"/>
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="70%" height="70%" />
+<br>
+
 <a href="https://github.com/thansee-r">
   <img src="https://komarev.com/ghpvc/?username=thansee-r&label=Profile%20views&color=00FFFF&style=flat-square" alt="thansee-r's profile views" />
 </a>
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 </div>
 
@@ -52,10 +53,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thanseerahmed/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" style="vertical-align:middle;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
   <a href="mailto:im.thanseerahmed@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" style="vertical-align:middle;" />
+    <img src="https://www.gstatic.com/images/branding/productlogos/gmail_2026/v2/web/192px.svg" alt="Gmail" width="40" />
   </a>
 </p>
 
